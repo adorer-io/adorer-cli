@@ -1,7 +1,7 @@
 {
   "name": "adorer-cli",
   "version": "1.0.2",
-  "description": "Adorer-cli",
+  "description": "Adorer-CLI is used for the Adorer platform to quickly initialize the micro front terminal application ",
   "main": "index.js",
   "bin": {
     "adorer": "./bin/adorer"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/adorer-io/adorer-cli.git"
+    "url": "https://github.com/adorer-io/adorer-cli.git"
   },
   "keywords": [
     "adorer",
@@ -22,9 +22,9 @@
   "author": "showkw<showkw@163.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitee.com/adorer-io/adorer-cli/issues"
+    "url": "https://github.com/adorer-io/adorer-cli/issues"
   },
-  "homepage": "https://gitee.com/adorer-io/adorer-cli#readme",
+  "homepage": "https://adorer.io",
   "dependencies": {
     "chalk": "^2.4.1",
     "cli-table": "^0.3.1",
