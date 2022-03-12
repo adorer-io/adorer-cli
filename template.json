@@ -1,7 +1,7 @@
 {
   "template": {
     "vue2-webpack": {
-      "url": "https://gitee.com/showkw/adorer-cli-vue2-webpack-template.git",
+      "url": "https://gitee.com/adorer-io/adorer-cli-template-vue2-webpack.git",
       "branch": "master"
     }
   }

@@ -22,9 +22,9 @@
   "author": "showkw<showkw@163.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitee.com/showkw/adorer-cli/issues"
+    "url": "https://gitee.com/adorer-io/adorer-cli/issues"
   },
-  "homepage": "https://gitee.com/showkw/adorer-cli#readme",
+  "homepage": "https://gitee.com/adorer-io/adorer-cli#readme",
   "dependencies": {
     "chalk": "^2.4.1",
     "cli-table": "^0.3.1",
